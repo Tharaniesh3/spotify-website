@@ -1,11 +1,13 @@
-# spotify-website
-# To-Do-List
+# Spotify-website
 
 https://tharaniesh3.github.io/spotify-website/#card
 
 ### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). I have made a 3D website for spotify.
 ## THIS IS HOW IT LOOKS LIKE
-
+ ![alt text](https://raw.githubusercontent.com/Tharaniesh3/spotify-website/main/assets/1.png)
+ ![alt text](https://raw.githubusercontent.com/Tharaniesh3/spotify-website/main/assets/2.png)
+ ![alt text](https://raw.githubusercontent.com/Tharaniesh3/spotify-website/main/assets/3.png)
+  
   # **THANK YOU FOR READING** 🙏
 
 ## <u>Social Profiles</u> :
